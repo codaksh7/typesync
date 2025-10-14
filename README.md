@@ -2,7 +2,7 @@
 
 TypeSync is a real-time collaborative messaging and typing platform designed for seamless user communication. It allows multiple users to connect, chat, and view each other’s typing status instantly. The system ensures synchronized message delivery using WebSockets, maintaining real-time updates without delay.
 
-Build with a secure authentication system, TypeSync manages user sessions with JWT tokens and Redis, providing safe and persistent logins. The interface is fully responsive, offering a clean and modern chat layout similar to popular messaging apps.
+Built with a secure authentication system, TypeSync manages user sessions with JWT tokens and Redis, providing safe and persistent logins. The interface is fully responsive, offering a clean and modern chat layout similar to popular messaging apps.
 
 ### ✨ Key Features
 - Real-time messaging and live typing sync  
